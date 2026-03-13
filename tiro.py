@@ -10,7 +10,7 @@ altura = 480
 tela = pygame.display.set_mode((largura,altura))
 pygame.display.set_caption("Tiro ao Alvo")
 
-clique = pygame.Sound("aprendendo_pygame/tiro_alvo/clique.wav")
+clique = pygame.Sound("tiro_alvo/clique.wav")
 
 fonte = pygame.font.SysFont(None, 36)
 
